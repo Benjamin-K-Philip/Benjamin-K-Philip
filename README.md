@@ -4,7 +4,7 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
 
 ## 🚀 Projects
 
-### 🕹️ Game Development (Python / Pygame)
+### 🕹️ Game Development 
 * **[Tetris Game](https://github.com/Benjamin-K-Philip/Tertis-Game-)** - A classic implementation of the iconic block-stacking puzzle.
 * **[Tron Light Cycle Battle](https://github.com/Benjamin-K-Philip/Tron-Light-Cycle-Battle-Game-)** - A high-speed arcade game based on the classic 1982 TRON movie.
 * **[Snake Game](https://github.com/Benjamin-K-Philip/Snake-Game-)** - The timeless arcade staple built with clean logic.
