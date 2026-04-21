@@ -1,5 +1,3 @@
-# Benjamin-Kurien-Philip
-
 # Hi there, I'm Benjamin Kurien Philip 👋
 
 I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundations in programming, database management systems, and AI tools.
