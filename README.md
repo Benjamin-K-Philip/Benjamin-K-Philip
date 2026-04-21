@@ -32,5 +32,5 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
 * **Frameworks/Libraries:** Pygame, Pyxel
 * **Specializations:** Economic Modeling, OOP, Game Logic
 
-## 📈 GitHub Stats
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benjamin-K-Philip&show_icons=true&theme=radical) 
+<!## 📈 GitHub Stats
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benjamin-K-Philip&show_icons=true&theme=radical) -->
