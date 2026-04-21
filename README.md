@@ -28,7 +28,7 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
 ---
 
 ## 🛠️ Tech Stack
-* **Languages:** Python, Java, C
+* **Languages:** C, Java, Python
 * **Frameworks/Libraries:** Pygame, Pyxel, Panda3D
 * **Specializations:** Economic Modeling, OOP, Game Logic
 
