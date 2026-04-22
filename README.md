@@ -17,13 +17,15 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
 * **[Cruise Ship Management](https://github.com/Benjamin-K-Philip/Cruise-Ship-Management-)** - A comprehensive system for managing bookings and logistics.
 * **[Morse Code Converter](https://github.com/Benjamin-K-Philip/Morse-Code-Converter)** - A utility to bridge the gap between text and telegraphic signals.
 
-### 📊 Economics & Data Simulation
-* **[Endogenous Growth Simulation](https://github.com/Benjamin-K-Philip/Endogenous-Growth-Simulation-Interactive-Romer-R-D-Model-Dashboard/tree/main)** - An interactive dashboard simulating the Romer R&D Model to visualize long-run economic growth.
 
 ### 📐 Mathematical Tools & Analytics
 * **[Lattice Analyzer](https://github.com/Benjamin-K-Philip/Lattice-Analyzer-)** - A tool designed for structural analysis and mathematical modeling.
 * **[Method of Variation of Parameters](https://github.com/Benjamin-K-Philip/Method-of-Variation-of-Parameters)** - Implementation of calculus techniques for solving differential equations.
 * **[Laplace Transform](https://github.com/Benjamin-K-Philip/Laplace-Transform-)** - A computational tool for engineering and physics-based transformations.
+
+
+### 📊 Economics & Data Simulation
+* **[Endogenous Growth Simulation](https://github.com/Benjamin-K-Philip/Endogenous-Growth-Simulation-Interactive-Romer-R-D-Model-Dashboard/tree/main)** - An interactive dashboard simulating the Romer R&D Model to visualize long-run economic growth.
 
 ---
 
