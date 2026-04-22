@@ -4,6 +4,8 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
 
 [![LinkedIn](https://img.shields.io/badge/in%2Fbenjamin--kurien--philip-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kurien-philip/)
 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/benjamin-kurien-philip/)
+
 ## 🚀 Projects
 
 ### 🕹️ Game Development 
