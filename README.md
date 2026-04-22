@@ -2,6 +2,8 @@
 
 I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundations in programming, database management systems, and AI tools.
 
+[![LinkedIn](https://img.shields.io/badge/in%2Fbenjamin--kurien--philip-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-kurien-philip/)
+
 ## 🚀 Projects
 
 ### 🕹️ Game Development 
