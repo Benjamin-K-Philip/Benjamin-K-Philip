@@ -73,7 +73,8 @@
 
 </div>
 
-### Specializations: #### Economic Modeling · Object-Oriented Programming · Game Logic · Mathematical Computing
+### Specializations: 
+#### Economic Modeling · Object-Oriented Programming · Game Logic · Mathematical Computing
 
 ---
 
