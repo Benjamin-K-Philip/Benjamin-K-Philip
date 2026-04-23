@@ -114,16 +114,11 @@
   
   <tr>
     
-    <td align="center" <!--colspan="2"--> >
+    <td align="center" colspan="2" >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="380"/>
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-K-Philip&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-    </td>
-  </tr>
   
 </table>
 
