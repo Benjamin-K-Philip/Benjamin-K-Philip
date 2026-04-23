@@ -20,15 +20,15 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
       </a>
     </td>
-    <!-- <td align="left" width="420">
+     <td align="left" width="420">
       <h3>👨‍💻 About Me</h3>
       I am Benjamin from India 🇮🇳<br/><br/>
       <img src="https://komarev.com/ghpvc/?username=Benjamin-K-Philip&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td> -->
+    </td> 
   </tr>
 </table>
 
-</div>  
+</div> 
 -->
 
 
