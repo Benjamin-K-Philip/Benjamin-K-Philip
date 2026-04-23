@@ -1,6 +1,7 @@
 # Hi there, I'm Benjamin Kurien Philip 👋
 
 
+<!-- 
 ## 👤 About Me
 
 <div align="center">
@@ -27,8 +28,8 @@
   </tr>
 </table>
 
-</div>
-
+</div>  
+-->
 ---
 
 
