@@ -119,6 +119,7 @@ Benjamin Kurien Philip - Contribution Graph
 </div> 
 -->
 
+<!--
 <div align="center">
 <table>
   <tr>
@@ -131,3 +132,18 @@ Benjamin Kurien Philip - Contribution Graph
   </tr>
 </table>
 </div>
+-->
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="380"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" width="420"/>
+    </td>
+  </tr>
+</table>
+</div>
+
