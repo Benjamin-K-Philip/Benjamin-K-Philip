@@ -78,12 +78,10 @@
 ---
 
 ## 📫 Contact
-
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamin-kurien-philip/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="https://github.com/Benjamin-K-Philip">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
