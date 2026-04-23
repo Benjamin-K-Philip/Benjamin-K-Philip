@@ -101,19 +101,30 @@
 <div align="center">
 
 <table>
+  
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-K-Philip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
     </td>
+    
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="420"/>
     </td>
   </tr>
+  
   <tr>
-    <td align="center" colspan="2">
+    
+    <td align="center" <!--colspan="2"--> >
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="380"/>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-K-Philip&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+    </td>
+  </tr>
+  
 </table>
 
 </div>
