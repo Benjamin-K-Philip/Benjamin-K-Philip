@@ -22,8 +22,8 @@ I am a Computer Science undergraduate at BITS Pilani Dubai with strong foundatio
     </td>
     <td align="center" width="250">
       <h3>🔥 My Stats</h3>
-      <img src="https://img.shields.io/badge/Total%20Contributions-132-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions"/><br/><br/>
-      <sub>Jun 30, 2024 – Present</sub><br/><br/>
+      <!--  <img src="https://img.shields.io/badge/Total%20Contributions-132-brightgreen?style=for-the-badge&logo=github" alt="Total Contributions"/><br/><br/> -->
+      <sub>Nov 30, 2025 – Present</sub><br/><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="220"/>
     </td>
   </tr>
