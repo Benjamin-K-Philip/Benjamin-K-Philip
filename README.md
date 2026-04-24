@@ -148,4 +148,4 @@ Benjamin Kurien Philip - Contribution Graph
 </table>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
