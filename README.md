@@ -160,16 +160,17 @@ Benjamin Kurien Philip - Contribution Graph
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-    </td>
-  </tr>
-</table>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjamin-K-Philip&theme=tokyonight" alt="Top Languages by Commit" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benjamin-K-Philip&theme=tokyonight" alt="Top Languages by Repo" height="200"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Benjamin-K-Philip&theme=tokyonight" alt="Profile Stats" height="200"/>
+
 </div>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
