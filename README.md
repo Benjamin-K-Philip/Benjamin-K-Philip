@@ -158,11 +158,12 @@ Benjamin Kurien Philip - Contribution Graph
 
 
 ## 📊 GitHub Stats
+
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&layout=donut&theme=tokyonight&langs_count=8&hide=jupyter%20notebook&hide_border=true" alt="Top Languages" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benjamin-K-Philip&theme=tokyonight" alt="Top Languages" height="200"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
