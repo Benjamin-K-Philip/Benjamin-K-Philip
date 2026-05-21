@@ -45,7 +45,7 @@
 * **[2-in-1 Game](https://github.com/Benjamin-K-Philip/2-in-1-game)** — A consolidated gaming experience featuring multiple mechanics.
 
 ### 💳 Software & Systems
-* **[FitTrack Pro](https://github.com/Benjamin-K-Philip/FitTrack-Pro-)** — A full-stack fitness tracking web app featuring a Python backend, SQL database, and HTML/CSS/JS frontend.
+* **[FitTrack Pro](https://github.com/Benjamin-K-Philip/FitTrack-Pro-)** — A full-stack fitness tracking web app featuring a Python backend, SQL database and HTML/CSS/JS frontend.
 * **[Blockchain Payment App](https://github.com/Benjamin-K-Philip/Blockchain-Payment-App)** — A Java-based OOP project simulating secure transaction architectures.
 * **[Cruise Ship Management](https://github.com/Benjamin-K-Philip/Cruise-Ship-Management-)** — A comprehensive system for managing bookings and logistics.
 * **[Morse Code Converter](https://github.com/Benjamin-K-Philip/Morse-Code-Converter)** — A utility to bridge the gap between text and telegraphic signals.
