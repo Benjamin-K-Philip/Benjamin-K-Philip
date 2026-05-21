@@ -57,6 +57,7 @@
 * **[Method of Variation of Parameters](https://github.com/Benjamin-K-Philip/Method-of-Variation-of-Parameters)** — Implementation of calculus techniques for solving differential equations.
 * **[Laplace Transform](https://github.com/Benjamin-K-Philip/Laplace-Transform-)** — A computational tool for engineering and physics-based transformations.
 
+
 ### 📊 Economics & Data Simulation
 * **[Endogenous Growth Simulation](https://github.com/Benjamin-K-Philip/Endogenous-Growth-Simulation-Interactive-Romer-R-D-Model-Dashboard/tree/main)** — An interactive dashboard simulating the Romer R&D Model to visualize long-run economic growth.
 
