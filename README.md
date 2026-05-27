@@ -98,6 +98,20 @@
 
 
 
+## 📊 GitHub Stats
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
+</div>
+
 <!--
 ## 📫 Contact
 <div align="center">
