@@ -82,6 +82,7 @@
 #### Economic Modeling · Object-Oriented Programming · Game Logic · Mathematical Computing
 
 ---
+<!--
 ## 📊 GitHub Stats
 <div align="center">
 <table>
@@ -95,6 +96,10 @@
   </tr>
 </table>
 </div>
+-->
+
+
+<!-- Below lines are commited -->
 
 
 <!--
