@@ -1,40 +1,6 @@
 # Hi there, I'm Benjamin Kurien Philip 👋
 
 
-<!-- 
-## 👤 About Me
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="280">
-      <img src="https://avatars.githubusercontent.com/Benjamin-K-Philip" width="120" style="border-radius: 50%;" alt="Benjamin Kurien Philip"/><br/><br/>
-      <strong>Benjamin Kurien Philip</strong><br/>
-      <sub>CS Undergraduate @ BITS Pilani Dubai</sub><br/><br/>
-      <a href="https://www.linkedin.com/in/benjamin-kurien-philip/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      &nbsp;
-      <a href="https://github.com/Benjamin-K-Philip">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-     <td align="left" width="420">
-      <h3>👨‍💻 About Me</h3>
-      I am Benjamin from India 🇮🇳<br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=Benjamin-K-Philip&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </td> 
-  </tr>
-</table>
-
-</div> 
--->
-
-
-
-
-
 ## 🚀 Projects
 
 ### 🎮 Game Development
@@ -98,13 +64,6 @@
 </table>
 </div>
 
- 
-
-<!-- Below lines are committed -->
-
-
-<!--
-
 
 ## 📊 GitHub Stats
 
@@ -120,6 +79,43 @@
   </tr>
 </table>
 </div>
+
+ 
+
+<!-- Below lines are committed -->
+
+<!--
+
+## 👤 About Me
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="280">
+      <img src="https://avatars.githubusercontent.com/Benjamin-K-Philip" width="120" style="border-radius: 50%;" alt="Benjamin Kurien Philip"/><br/><br/>
+      <strong>Benjamin Kurien Philip</strong><br/>
+      <sub>CS Undergraduate @ BITS Pilani Dubai</sub><br/><br/>
+      <a href="https://www.linkedin.com/in/benjamin-kurien-philip/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/Benjamin-K-Philip">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+     <td align="left" width="420">
+      <h3>👨‍💻 About Me</h3>
+      I am Benjamin from India 🇮🇳<br/><br/>
+      <img src="https://komarev.com/ghpvc/?username=Benjamin-K-Philip&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </td> 
+  </tr>
+</table>
+
+</div> 
+
+
+
 
 
 ## 📫 Contact
