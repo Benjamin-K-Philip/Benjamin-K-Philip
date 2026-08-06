@@ -49,22 +49,6 @@
 
 ---
  
-
-## 📊 GitHub Stats
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" height="200"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -115,6 +99,20 @@
 </div> 
 
 
+
+## 📊 GitHub Stats
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 
