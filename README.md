@@ -99,13 +99,13 @@
 </div>
 
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-K-Philip&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&v=1" alt="Top Languages" height="200"/>
+      <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="200"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" height="200"/>
@@ -113,8 +113,8 @@
   </tr>
 </table>
 </div>
- 
 
+ 
 
 <!-- Below lines are committed -->
 
