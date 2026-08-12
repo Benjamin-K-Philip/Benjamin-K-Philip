@@ -72,7 +72,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjamin-K-Philip&theme=tokyonight&v=5" alt="Top Languages" height="200"/>
     </td>
     <td align="center">
-      <img src="./profile/streak.svg" alt="GitHub Streak" height="200"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Benjamin-K-Philip&theme=tokyonight&v=5" alt="Stats" height="200"/>
     </td>
   </tr>
 </table>
