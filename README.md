@@ -49,22 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjamin-K-Philip&theme=tokyonight&v=2" alt="Top Languages" height="200"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" height="200"/>
-    </td>
-  </tr>
-</table>
-</div>
-
-
-## 📊 GitHub Stats Updated
+## 📊 GitHub Stats 
 <div align="center">
 <table>
   <tr>
