@@ -12,7 +12,7 @@
 
 
 ### 📱 Applications & Systems
-* **[Chess & Checkers](https://github.com/Benjamin-K-Philip/Chess-and-Checkers-Website)** — A browser-based chess and checkers game with a minimax computer opponent, built in vanilla HTML/CSS/JS. **[▶ Live Site](https://chess-and-checkers-website.vercel.app/)**
+* **[Chess & Checkers](https://github.com/Benjamin-K-Philip/Chess-and-Checkers-Website)** — A browser-based chess and checkers game with a computer opponent, built in HTML/CSS/JS. **[▶ Live Site](https://chess-and-checkers-website.vercel.app/)**
 * **[Retro Arcade](https://github.com/Benjamin-K-Philip/Retro-Arcade)** — Six classic arcade games behind one front page, four ported from Python/Pyxel to HTML5 canvas. **[▶ Live Site](https://retro-arcade-nine.vercel.app/)**
 * **[FitTrack Pro](https://github.com/Benjamin-K-Philip/FitTrack-Pro-)** — A full-stack fitness tracking web app featuring a Python backend, SQL database and HTML/CSS/JS frontend.
 * **[Blockchain Payment App](https://github.com/Benjamin-K-Philip/Blockchain-Payment-App)** — A Java-based OOP project simulating secure transaction architectures.
