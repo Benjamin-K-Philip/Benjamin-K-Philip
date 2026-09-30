@@ -58,10 +58,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benjamin-K-Philip&theme=tokyonight&v=5" alt="Top Languages" height="200"/>
+      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="200"/>
     </td>
     <td align="center">
-      <img src="./profile/streak.svg" alt="GitHub Streak"/>
+      <img src="./profile/streak.svg" alt="GitHub Streak" height="200"/>
     </td>
   </tr>
 </table>
