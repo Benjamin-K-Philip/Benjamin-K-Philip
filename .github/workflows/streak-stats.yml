@@ -30,3 +30,13 @@ jobs:
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
           git push
+
+      # NEW: generates the Top Languages card
+      - name: Generate language cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 4
