@@ -55,13 +55,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" height="200"/>
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" height="200"/>
     </td>
     <td align="center">
-      <img src="./profile/streak.svg" alt="GitHub Streak" height="200"/>
+      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" height="200"/>
     </td>
   </tr>
 </table>
