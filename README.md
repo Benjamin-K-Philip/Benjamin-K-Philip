@@ -59,16 +59,8 @@
 </div>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" height="200"/>
-    </td>
-    <td align="center">
-      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" height="200"/>
-    </td>
-  </tr>
-</table>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
 </div>
 
  
