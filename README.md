@@ -55,7 +55,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="100%"/>
+   <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" width="100%"/>
 </div>
 
 <div align="center">
