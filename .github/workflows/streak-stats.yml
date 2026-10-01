@@ -14,12 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5   # CHANGED: v4 → v5 (fixes Node.js warning)
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
+          # CHANGED: added timezone so streak days follow Dubai time
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true&timezone=Asia/Dubai
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,9 +30,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
           git commit -m "Update streak stats" || exit 0
+          git pull --rebase origin main   # CHANGED: sync with newer commits before pushing
           git push
 
-      # NEW: generates the Top Languages card
+      # Generates the Top Languages card
       - name: Generate language cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
