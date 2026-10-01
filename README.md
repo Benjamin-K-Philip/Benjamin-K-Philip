@@ -55,14 +55,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
 </div>
-
  
 
 <!-- Below lines are committed -->
