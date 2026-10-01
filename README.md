@@ -110,7 +110,6 @@
 </div>
 
 
-
 ## 📫 Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamin-kurien-philip/">
