@@ -55,13 +55,21 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tron/0-profile-details.svg" alt="Profile Details" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
-  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tron/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tron/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile/streak.svg" alt="GitHub Streak" width="60%"/>
+</div>
+
+
+
+
  
 
 <!-- Below lines are committed -->
@@ -183,5 +191,19 @@ Benjamin Kurien Philip - Contribution Graph
 
 </div> 
 -->
+
+
+<!--
+## 📊 GitHub Stats
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%"/>
+</div>
+-->
+
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Benjamin-K-Philip&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
