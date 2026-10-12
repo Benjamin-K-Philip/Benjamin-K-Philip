@@ -64,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile/streak.svg" alt="GitHub Streak" width="60%"/>
+  <img src="https://raw.githubusercontent.com/Benjamin-K-Philip/Benjamin-K-Philip/main/profile-summary-card-output/tron/3-stats.svg" alt="GitHub Stats" width="49%"/>
 </div>
 
 
