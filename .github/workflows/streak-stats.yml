@@ -1,4 +1,4 @@
-name: Update streak stats
+name: Update profile stats (Tron theme)
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
+      - ".github/scripts/tronify.py"
   workflow_dispatch:
 
 jobs:
@@ -14,27 +15,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v5   # CHANGED: v4 → v5 (fixes Node.js warning)
+      - uses: actions/checkout@v5
 
+      # Streak card: custom Tron colours set directly
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          # CHANGED: added timezone so streak days follow Dubai time
-          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true&timezone=Asia/Dubai
+          options: user=${{ github.repository_owner }}&disable_animations=true&timezone=Asia/Dubai&background=000000&border=00E5FF&stroke=00AEFF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=7FDBFF&dates=5A7BA6
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit streak stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          git commit -m "Update streak stats" || exit 0
-          git pull --rebase origin main   # CHANGED: sync with newer commits before pushing
-          git push
-
-      # Generates the Top Languages card
-      - name: Generate language cards
+      # Summary cards: generate only the algolia theme, don't push yet
+      - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -42,3 +34,20 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 4
+          THEME: algolia
+          AUTO_PUSH: false
+
+      # Turn algolia into the custom Tron theme
+      - name: Apply Tron theme
+        run: |
+          sudo chown -R "$(id -u)":"$(id -g)" profile-summary-card-output || true
+          python3 .github/scripts/tronify.py profile-summary-card-output/algolia profile-summary-card-output/tron
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg profile-summary-card-output
+          git commit -m "Update profile stats" || exit 0
+          git pull --rebase origin main
+          git push
