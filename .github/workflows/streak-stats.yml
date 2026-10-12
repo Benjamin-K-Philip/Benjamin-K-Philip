@@ -25,7 +25,7 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Summary cards: generate only the algolia theme, don't push yet
+      # Summary cards: generate all themes
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -34,7 +34,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 4
-          THEME: algolia
           AUTO_PUSH: false
 
       # Turn algolia into the custom Tron theme
